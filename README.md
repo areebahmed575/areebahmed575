@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cloud Applied Generative AI Engineering**
 
-- 💬 Ask me about **Next.js 13,React,Typescript**
+- 💬 Ask me about **Next.js,React and Generative AI**
 
 - Any Freelance opportunities? Reach out me via **areebahmed575@gmail.com**
 
