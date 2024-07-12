@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areebahmed575&label=Profile%20views&color=0e75b6&style=flat" alt="areebahmed575" /> </p>
 
-- 🌱 I’m currently learning **GenAi,Web 3.0 and Metaverse Development**
+- 🌱 I’m currently learning **Cloud Applied Generative AI Engineering**
 
 - 💬 Ask me about **Next.js 13,React,Typescript**
 
