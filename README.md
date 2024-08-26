@@ -1,4 +1,4 @@
-![Areeb Ahmed](https://github.com/areebahmed575/areebahmed575/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png)
+![Areeb Ahmed](https://github.com/areebahmed575/areebahmed575/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn.png)
 <h1 align="center">Hi 👋, I'm Areeb Ahmed</h1>
 <h3 align="center">Passionate Modern Full Stack Developer,Generative Ai Engineer and Undergraduate Software Engineer</h3>
 
