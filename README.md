@@ -1,12 +1,12 @@
 ![Areeb Ahmed](https://github.com/areebahmed575/areebahmed575/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn.png)
 <h1 align="center">Hi 👋, I'm Areeb Ahmed</h1>
-<h3 align="center">Passionate Modern Full Stack Developer,Generative Ai Engineer and Undergraduate Software Engineer</h3>
+<h3 align="center">Passionate Modern Full Stack Developer and Agentic Ai Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areebahmed575&label=Profile%20views&color=0e75b6&style=flat" alt="areebahmed575" /> </p>
 
 - 🌱 I’m currently learning **Cloud Applied Generative AI Engineering**
 
-- 💬 Ask me about **Next.js,React and Generative AI**
+- 💬 Ask me about **Next.js,Mern stack and Agentic AI**
 
 - Any Freelance opportunities? Reach out me via **areebahmed575@gmail.com**
 
